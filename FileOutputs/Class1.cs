@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FileOutputs
 {
-    public class FileOutputs
+    public class Class1
     {
         public static void output_print(String output_path, String output)
         {
